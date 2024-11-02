@@ -1,6 +1,5 @@
 # Ink-Auto-Tx-Bot
 This bot automates transaction processes daily
-Join My Airdrop Channel For Upcoming Update: https://t.me/sabbirofficialairdrop
 
 ## BOT FEATURE
 - Multi Account 
@@ -32,3 +31,5 @@ npm install
 ```bash
 npm start
 ```
+
+### Join My Airdrop Channel For Upcoming Update: https://t.me/sabbirofficialairdrop
