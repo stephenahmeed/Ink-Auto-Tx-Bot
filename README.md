@@ -1,8 +1,7 @@
 # Ink-Auto-Tx-Bot
 This bot automates transaction processes daily
 
-## BOT FEATURE
-- Multi Account 
+## BOT FEATURE 
 - Support PK
 - Auto Tx Daily
 
